@@ -1,0 +1,136 @@
+#EXTM3U
+#EXTINF: 1, TELECADENA
+https://bcovlive-a.akamaihd.net:443/825f39eaa17d4794a3898945026556e0/us-west-2/6056665196001/profile_0/chunklist.m3u8
+#EXTINF: 1, UMIMAS
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57953
+#EXTINF: 1, TELEMUNDO CHIC
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/58642
+#EXTINF: 1, TELEMUNDO 47
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57963
+#EXTINF: 1, UNIVISION NY
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/58997
+#EXTINF: 1, ZOMA FÚTBOL
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/58885
+#EXTINF: 1, DIRECTV SPORTS
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51292
+#EXTINF: 1, DIRECTV SPORTS 2
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51194
+#EXTINF: 1, ESPN ARG
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49721
+#EXTINF: 1, ESPN 2 ARG
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49720
+#EXTINF: 1, ESPN 3 ARG
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49719
+#EXTINF: 1, Movistar LaLiga
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52425
+#EXTINF: 1, Movistar LaLiga Op2
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/29256
+#EXTINF: 1, BeinSport España
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52350
+#EXTINF: 1, BeinSport CAN
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30178
+#EXTINF: 1, BeinSport USA
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/3159
+#EXTINF: 1, BeinSport UK
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/28918
+#EXTINF: 1, BeinSport2 UK
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/28917
+#EXTINF: 1, BeinSport3 UK
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/28916
+#EXTINF: 1, BeinSport 1 FR
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF: 1, BeinSport 2 FR
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF: 1, BeinSport 3 FR
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+#EXTINF: 1, BeinSport 3 Arab
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59269
+#EXTINF: 1, BeinSport 4 FR
+http://31.220.41.88:8081/live/bein4.stream/chunks.m3u8?SBN
+#EXTINF: 1, BeinSportXtra 1
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59262
+#EXTINF: 1, BTSPORT 
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+#EXTINF: 1, SkySports Fútbol
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF: 1, Sky Football Opc2
+http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF: 1, Sky Premier League
+http://31.220.41.88:8081/live/skysports-premier-league.stream/playlist.m3u8
+#EXTINF: 1, Sky Bundesliga
+http://stream.tvtap.live:8081/live/de-skybundes1.stream/playlist.m3u8
+#EXTINF: 1, Sky Bundesliga Op2
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/2632
+#EXTINF: 1, Sky Serie A
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/28468
+#EXTINF: 1, Sport Digital Alem
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/2613
+#EXTINF: 1, La Liga TV Bar
+http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF: 1, DAZN 1 IT
+http://31.220.41.88:8081/live/it-dazn1.stream/playlist.m3u8
+#EXTINF: 1, DAZN 1 IT Op2
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/2743
+#EXTINF: 1, DAZN 2 IT
+http://31.220.41.88:8081/live/it-dazn2.stream/playlist.m3u8
+#EXTINF: 1, DAZN 1 Alem
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/28992
+#EXTINF: 1, DAZN 1 Alem Op2
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/29122
+#EXTINF: 1, TNT SPORTS ARG
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49739
+#EXTINF: 1, TYC SPORTS ARG
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49982
+#EXTINF: 1, TNT SPORTS BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF: 1, TNT SPORTS2 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF: 1, Futbol Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF: 1, Futbol 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF: 1, Deporte Interactivo
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF: 1, SETANTA SPOR 
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
+#EXTINF: 1, GOL ESPAÑA
+http://51.91.73.99:25461/spain/XDWu1KatRP/21692
+#EXTINF: 1, BeinSport USA
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17288
+#EXTINF: 1, Fox Deportes USA
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17735
+#EXTINF: 1, ESPN USA
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/3136
+#EXTINF: 1, ESPN Holanda
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31518
+#EXTINF: 1, ESPN 2 Holanda
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31519
+#EXTINF: 1, BeinSport 3 FRAN
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15276
+#EXTINF: 1, RMC SPORTS 3
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15543
+#EXTINF: 1, RCM SPORTS 
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15549
+#EXTINF: 1, RCM SPORTS Opc2
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/27960
+#EXTINF: 1, RCM SPORTS2
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/27971
+#EXTINF: 1, RCM SPORTS3
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/27970
+#EXTINF: 1, RCM SPORTS4
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/27957
+#EXTINF: 1, DAZN 2 
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/16695
+#EXTINF: 1, SKY SPORTS 3 ALE
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17013
+#EXTINF: 1, SKY SPORTS 4 ALE
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17014
+#EXTINF: 1, ViasatSport Premium
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25907
+#EXTINF: 1, FOXSOCCER 
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/3130
+#EXTINF: 1, FOXSOCCER 2
+https://a.jsrdn.com:443/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF: 1, ZIGGO SPORTS
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31530
+
